@@ -6,3 +6,4 @@ for i in range(1, 21):
     print(i)
 
 print("The program is finished")
+print("Just testing some changes in the program")
